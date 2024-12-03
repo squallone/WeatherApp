@@ -1,6 +1,6 @@
 # WeatherApp
 
-This is a simple and intuitive iOS application developed in **Swift**, utilizing **RxSwift**, the **Model-View-ViewModel (MVVM)** design pattern, and principles of **Clean Architecture**. The app fetches and displays real-time weather data using the **OpenWeather API**.
+This is a simple iOS app developed in **Swift**, utilizing **RxSwift**, the **Model-View-ViewModel (MVVM)** design pattern, and principles of **Clean Architecture**. The app fetches and displays real-time weather data using the **OpenWeather API**.
 
 <img width=50% src="https://github.com/user-attachments/assets/7b8dd2e8-236c-4019-8246-57cf1a235b28">
 
